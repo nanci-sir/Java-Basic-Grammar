@@ -98,5 +98,3 @@ public class TypeDemo3 {
     }
 }
 ```
-
-# 运算符
