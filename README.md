@@ -1,5 +1,5 @@
 # Java-Basic-Grammar
-Javaj基础语法
+Java基础语法
 # 类型转换
 
 ## 1.自动类型转换
